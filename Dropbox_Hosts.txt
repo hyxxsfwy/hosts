@@ -1,6 +1,6 @@
 #Last modified 2014.08.07
 
-#Dropbox aip
+#Dropbox api
 108.160.167.19	api.dropbox.com
 107.22.188.205	api-content.dropbox.com
 
