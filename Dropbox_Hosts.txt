@@ -1,4 +1,4 @@
-#Last modified 2014.08.07
+#Last modified 2014.08.30
 
 #Dropbox api
 108.160.167.19	api.dropbox.com
@@ -11,6 +11,8 @@
 107.21.248.16 dl-web.dropbox.com
 54.235.171.139 dl.dropboxusercontent.com
 108.160.166.61 d.dropbox.com
+108.160.172.1 block.dropbox.com
+108.160.172.1 block.v.dropbox.com
 54.225.132.193 photos-1.dropbox.com
 54.235.76.156 photos-2.dropbox.com
 54.243.118.152 photos-3.dropbox.com
