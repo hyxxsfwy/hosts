@@ -1,15 +1,15 @@
-#Last modified 2014.08.30
+#Last modified 2014.11.29
 
 #Dropbox api
 108.160.167.19	api.dropbox.com
 107.22.188.205	api-content.dropbox.com
 
 #Dropbox Service
-108.160.165.62 dropbox.com
-108.160.167.201 www.dropbox.com
-23.21.206.219 forums.dropbox.com
-107.21.248.16 dl-web.dropbox.com
-54.235.171.139 dl.dropboxusercontent.com
+108.160.166.148 dropbox.com
+108.160.166.148 www.dropbox.com
+54.230.125.206 forums.dropbox.com
+23.23.244.88 dl-web.dropbox.com
+107.22.170.202 dl.dropboxusercontent.com
 108.160.166.61 d.dropbox.com
 108.160.172.1 block.dropbox.com
 108.160.172.1 block.v.dropbox.com
